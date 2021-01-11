@@ -14,5 +14,5 @@ def run_guessing_game
       puts "Goodbye!"
   binding.pry
     end
-
+  end 
 end
