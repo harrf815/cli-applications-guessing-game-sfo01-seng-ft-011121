@@ -1,5 +1,6 @@
 # Code your solution here!
 require_relative "../guessing_game_cli"
+require "../guessing_game_cli"
 
 def run_guessing_game
   puts "/Guess a number between 1 and 6."
